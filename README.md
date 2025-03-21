@@ -36,9 +36,9 @@ GRANT ALL PRIVILEGES ON DATABASE tasks TO postgres;
 ```
 ### 3. Configure o application.properties
 ```aplication
-spring.datasource.url=jdbc:postgresql://localhost:5432/taskdb
-spring.datasource.username=taskuser
-spring.datasource.password=taskpass
+spring.datasource.url=jdbc:postgresql://localhost:5432/tasks
+spring.datasource.username=postgres
+spring.datasource.password=1234
 spring.jpa.hibernate.ddl-auto=update
 ```
 ### Execute com Maven
