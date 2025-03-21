@@ -1,0 +1,5 @@
+curl -X POST http://localhost:8080/tarefas -H "Content-Type: application/json" -d '{"titulo":"Database","descricao":"", "status":""}'
+curl -X GET http://localhost:8080/tarefas
+curl -X GET http://localhost:8080/tarefas/{id}
+curl -X PUT http://localhost:8080/tarefas/{id} -H "Content-Type: application/json" -d '{"descricao":"Atualizado","concluida":true}'
+curl -X DELETE http://localhost:8080/tarefas/{id}
