@@ -64,8 +64,8 @@ Acessível em: http://localhost:8080
  - PUT	/tasks/{id}	Atualiza tarefa existente
  - DELETE	/tasks/{id}	Remove tarefa
 
+# Exemplo de Request
 ````json
-Exemplo de Request:
 {
   "titulo": "Revisar documentação",
   "descricao": "Atualizar README.md",
