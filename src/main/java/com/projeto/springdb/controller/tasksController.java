@@ -1,5 +1,3 @@
-
-
 package com.projeto.springdb.controller;
 
 import java.util.List;
