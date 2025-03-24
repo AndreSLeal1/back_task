@@ -1,9 +1,9 @@
 # 🚀 Task Manager API 
 
-[![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://www.oracle.com/java/)
+[![Java](https://img.shields.io/badge/Java-23-blue.svg)](https://www.oracle.com/java/)
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-3.4.3-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Build Status](https://github.com/seu-user/task-manager-backend/actions/workflows/ci.yml/badge.svg)](https://github.com/seu-user/task-manager-backend/actions)
+[![Build Status](https://github.com/AndreSLeal1/task-manager-backend/actions/workflows/ci.yml/badge.svg)](https://github.com/AndreSLeal1/task-manager-backend/actions)
 
 API RESTful para gerenciamento de tarefas com paginação, ordenação e documentação OpenAPI 3.0.
 
