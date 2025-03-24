@@ -75,19 +75,11 @@ Acessível em: http://localhost:8080
 ### 🧪 Testes
 ````bash
 
-# Executar testes unitários
-mvn test
-
-# Gerar relatório de cobertura (Jacoco)
-mvn jacoco:report
-Relatório em: target/site/jacoco/index.html
-
 # Stack Tecnológico
-Tecnologia	Versão/Ferramenta
+Tecnologia	- Ferramenta
 Backend	Spring Boot 3.4.3
 Banco de Dados	PostgreSQL 17
 Documentação	OpenAPI 3.0
 Build	Maven 3.9+
-Testes	JUnit 5, Mockito
 Containerização	Docker + Docker Compose
 ````
